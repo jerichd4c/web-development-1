@@ -63,7 +63,7 @@ To open any practice, no extra dependencies are required. You only need a modern
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jerichd4c/web-development-1-cohen.git
+   git clone https://github.com/jerichd4c/web-development-1.git
    ```
 2. Open the folder for the exercise or project you want to review.
 3. Run the main HTML file in your browser or with Live Server.
